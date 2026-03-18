@@ -1,0 +1,17 @@
+/home/globbo/carto/target/debug/deps/libsdl2_sys-4837c277bcea528f.rmeta: /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/lib.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/mod.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/framerate.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/imagefilter.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/primitives.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/rotozoom.rs /home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_bindings.rs /home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_framerate_bindings.rs /home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_imagefilter_bindings.rs /home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_primitives_bindings.rs /home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_rotozoom_bindings.rs
+
+/home/globbo/carto/target/debug/deps/sdl2_sys-4837c277bcea528f.d: /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/lib.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/mod.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/framerate.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/imagefilter.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/primitives.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/rotozoom.rs /home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_bindings.rs /home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_framerate_bindings.rs /home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_imagefilter_bindings.rs /home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_primitives_bindings.rs /home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_rotozoom_bindings.rs
+
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/lib.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/mod.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/framerate.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/imagefilter.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/primitives.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/gfx/rotozoom.rs:
+/home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_bindings.rs:
+/home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_framerate_bindings.rs:
+/home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_imagefilter_bindings.rs:
+/home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_primitives_bindings.rs:
+/home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out/sdl_gfx_rotozoom_bindings.rs:
+
+# env-dep:OUT_DIR=/home/globbo/carto/target/debug/build/sdl2-sys-7e1d494987b24a3f/out

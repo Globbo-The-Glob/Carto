@@ -1,0 +1,12 @@
+/home/globbo/carto/target/debug/deps/libcolor_eyre-16ea701bee7e2563.rmeta: /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/lib.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/config.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/fmt.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/handler.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/private.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/section/mod.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/section/help.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/writers.rs
+
+/home/globbo/carto/target/debug/deps/color_eyre-16ea701bee7e2563.d: /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/lib.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/config.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/fmt.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/handler.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/private.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/section/mod.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/section/help.rs /home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/writers.rs
+
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/lib.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/config.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/fmt.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/handler.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/private.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/section/mod.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/section/help.rs:
+/home/globbo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.3/src/writers.rs:

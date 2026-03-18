@@ -1,0 +1,13 @@
+[package]
+name = "screen"
+version = "0.1.0"
+edition = "2024"
+
+
+[dependencies]
+cross = "0.2.5"
+current_platform = "0.2.0"
+rppal = "0.22.1"
+simple-signal = "1.1.1"
+roxmltree = "0.20.0"
+tokio = {version = "*", features = ["full"] }

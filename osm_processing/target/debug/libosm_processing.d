@@ -1,0 +1,1 @@
+/home/globbo/carto/osm_processing/target/debug/libosm_processing.rlib: /home/globbo/carto/osm_processing/src/lib.rs /home/globbo/carto/osm_processing/src/osm_readers/mod.rs /home/globbo/carto/osm_processing/src/osm_readers/osmread.rs
